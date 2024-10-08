@@ -21,3 +21,30 @@ pip3 install -r requirements.txt
 #Permanent running : nohup python3 -m streamlit run app.py
 
 Note: Streamlit runs on this port: 8501
+
+2. aws commands
+
+sudo su
+
+yum install git 
+
+git clone [git_url]
+
+ls 
+
+cd file name 
+
+yum install python3-pip
+
+python -m pip install --ignore-installed streamlit
+
+#Temporary running : python3 -m streamlit run app.py
+
+#Permanent running : nohup python3 -m streamlit run app.py
+
+
+
+
+
+
+
