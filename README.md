@@ -1,6 +1,4 @@
-How to Deploy Streamlit app on EC2 instance
-1. Login with your AWS console and launch an EC2 instance
-2. Run the following commands
+1. Run the following commands
    
 Note: Do the port mapping to this port:- 8501
 
